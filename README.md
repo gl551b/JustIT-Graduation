@@ -40,7 +40,7 @@ According to the Office for National Statistics, the UK dog market is estimated 
 ![slide5](images/Slide5.jpg)
 
 Here, looking at the pie chart, we can see that in 2024 just over half of UK families own pets, and about 1 in 4 families owns one or more dogs.  
-On the right, the line graph shows a steady upward trend in dog ownership, and the number of families with dogs has grown consistently from just over 4.2 million in 2019 to nearly 4.9 million in 2024.<br>
+On the right, the line graph shows a steady upward trend in dog ownership: the number of families with dogs has grown consistently from just over 4.2 million in 2019 to nearly 4.9 million in 2024.<br>
 <br>
 
 ![slide6](images/Slide6.jpg)
