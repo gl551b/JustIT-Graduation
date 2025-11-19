@@ -2,14 +2,12 @@
 
 ![slide1](images/Slide1.jpg)
 
-Hi, I'm Valentina, and I'm based in London. I hold a Master’s in Astrophysics from Queen Mary University and my dissertation was about planet hunting with Python.  
-I worked on an enormous dataset from NASA, to find planets outside our solar system.  
-To give you an idea, it was like working on a giant "Where's Waldo?".  
+Hi, I'm Valentina, and I'm based in London. I hold a Master’s in Astrophysics from Queen Mary University and my dissertation was about planet hunting with Python: I worked on a big dataset from NASA, to find planets outside our solar system.  
 When I eventually found a new planet it felt like I had also discovered my superpower.  
-It may sound nerdish, but that feeling of finding hidden patterns is what I want my career to be about!  
-This is when I learnt that I'm a naturally very methodical person and that my key strengths are problem solving and finding patterns.  
+That feeling of finding hidden patterns is what I want my career to be about!  
+This is also when I learnt that I'm a naturally very methodical person and that my key strengths are problem solving and finding patterns.  
 That's also what led me to the Data Analyst Bootcamp at Just IT.  
-In terms of my professional experience, I started as a Data Science Intern, analysing satellite data for environmental research, I then progressed to a role as a Data Engineer at Quantexa, where I gained exposure to working with big data.<br>
+In terms of my professional experience, I started as a Data Science Intern, analysing satellite data for environmental research, I then progressed to a role as a Data Engineer at Quantexa, where I gained exposure to big data.<br>
 <br>
 
 ![slide2](images/Slide2.jpg)
@@ -22,10 +20,9 @@ I also make little plush toys with a Japanese technique called Amigurumi which i
 
 ![slide3](images/Slide3.jpg)
 
-I will now walk you through a project which I developed using Python and SQL.  
+I will now walk you through a project which I developed using Python and SQL.    
 As you can see from this slide, my project focuses on determining what key factors influence a dog's adoptability.  
-This is meant to aid dog shelters and breeders alike.  
-But before I start, I will talk you through some choices I made which will likely show you who I am as a professional.  
+But before I start, I will mention some choices I made which will likely show you who I am as a professional.  
 My philosophy is that a data analyst's main job is to tell a clear story with the data.  
 So, I'm going to focus on the insights I found in the data and I'll leave the technical methodology in the background.  
 I will also mainly rely on the simplicity and clarity of images for my slides.<br>
@@ -33,8 +30,9 @@ I will also mainly rely on the simplicity and clarity of images for my slides.<b
 
 ![slide4](images/Slide4.jpg)
 
-Now, let’s get started with some Statistics!  
-According to the Office for National Statistics, the UK dog market is estimated at approximately £10 billion in 2024 and steadily growing since 2019.<br>
+Now, let’s get started with my favourite: Statistics!  
+According to the Office for National Statistics, the UK dog market is estimated at approximately £10 billion in 2024 and steadily growing since 2019.  
+Yes, 10 billion pounds.<br>
 <br>
 
 ![slide5](images/Slide5.jpg)
@@ -47,13 +45,12 @@ On the right, the line graph shows a steady upward trend in dog ownership: the n
 
 Here, the first chart reveals that dogs with higher adoption scores tend to be very friendly and trainable.  
 They also tend to have lower shedding and barking levels.  
-The scatter plot on the right shows a positive, moderate relationship between a dog's intelligence and its adoption score.  
-This suggests that as intelligence increases, we generally see a corresponding increase in a dog's chances of being adopted.<br>
+The scatter plot on the right shows that as intelligence increases, we generally see a corresponding increase in a dog's chances of being adopted.<br>
 <br>
 
 ![slide7](images/Slide7.jpg)
 
-In conclusion, the data indicates that shelters can improve adoption rates by focusing training and marketing on key desirable traits, particularly a dog's trainability and barking level.  
+In conclusion, the data indicates that shelters can improve adoption rates by focusing training and marketing on key traits, particularly trainability and barking level.  
 For breeders, a focus on selectively breeding for intelligence and a calmer disposition would better align their dogs with what adopters are seeking.<br>
 <br>
 
