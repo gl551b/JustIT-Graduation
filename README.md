@@ -6,7 +6,6 @@ Hi, I'm Valentina, and I'm based in London. I hold a Master’s in Astrophysics 
 When I eventually found a new planet it felt like I had also discovered my superpower.  
 That feeling of finding hidden patterns is what I want my career to be about!  
 This is also when I learnt that I'm a naturally very methodical person and that my key strengths are problem solving and finding patterns.  
-That's also what led me to the Data Analyst Bootcamp at Just IT.  
 In terms of my professional experience, I started as a Data Science Intern, analysing satellite data for environmental research, I then progressed to a role as a Data Engineer at Quantexa, where I gained exposure to big data.<br>
 <br>
 
